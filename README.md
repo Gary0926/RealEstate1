@@ -7,7 +7,8 @@
 藉由內政部的[不動產資料供應系統](https://plvr.land.moi.gov.tw/Login_input?authfailed=true#)來下載所需資料:
 ![不動產資料供應系統](不動產資料供應系統.png)
 ## 程式碼說明
-爬蟲說明請閱 **實價登錄應用--爬蟲.ipynb**。租屋數據分析請閱 **實價登錄應用--租屋.ipynb**，分析描述部分以三引號包覆表示。
+爬蟲說明請閱 **實價登錄應用--爬蟲.ipynb**。資料合併、轉換與篩選請閱 **實價登錄應用--房地產數據處理.ipynb**，分析描述部分以三引號包覆表示。
 ## 參考來源
-[Finlab](https://www.finlab.tw/)
-
+[[機器學習專案] 買房預算該抓多少？建立自己的房價預測模型吧！](https://medium.com/@melala0910/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%B0%88%E6%A1%88-%E8%B2%B7%E6%88%BF%E9%A0%90%E7%AE%97%E8%A9%B2%E6%8A%93%E5%A4%9A%E5%B0%91-%E5%BB%BA%E7%AB%8B%E8%87%AA%E5%B7%B1%E7%9A%84%E6%88%BF%E5%83%B9%E9%A0%90%E6%B8%AC%E6%A8%A1%E5%9E%8B%E5%90%A7-4069c50d958b
+)
+[【Day 27】開始寫程式拉！房價預測實戰演練 －Keras建立神經網路和測試集資料調整](https://ithelp.ithome.com.tw/articles/10226727)
